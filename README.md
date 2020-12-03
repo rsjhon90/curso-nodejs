@@ -2,7 +2,7 @@
 Praticando NodeJS com a rocketseat
 
 #Ferramentas utilizadas{ 
-nodemoon, 
+nodemon, 
 módulos do express, 
 docker, 
 mongoDB (container), 
